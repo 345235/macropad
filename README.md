@@ -3,7 +3,7 @@ This is a macropad that i build for stardance
 
 
 -----------
-
+How it looks:
 
 <img width="1265" height="811" alt="image" src="https://github.com/user-attachments/assets/b3442ecf-fd54-4623-9eac-4142dd795cf5" />
 
@@ -12,12 +12,11 @@ This is a macropad that i build for stardance
 
 
 ---------
+Features:
+
+ oled monitor 
+ 4 cherry switches 
+ seeedouino xiao 
 
 
-
-
-
-
-it has a oled monitor 
-4 cherry switches 
-and a seeedouino xiao 
+-----------
