@@ -14,9 +14,11 @@ How it looks:
 ---------
 Features:
 
- oled monitor 
- 4 cherry switches 
- seeedouino xiao 
+oled monitor
+ 
+4 cherry switches 
+ 
+seeedouino xiao 
 
 
 -----------
