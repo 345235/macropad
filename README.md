@@ -22,11 +22,13 @@ seeedouino xiao
 
 The Base case has rectangular holes that aligns perfectly withe the four towers on the top plate 
 
-<img width="1044" height="568" alt="image" src="https://github.com/user-attachments/assets/8ba93c4f-2293-4586-ab36-a433bb8431e7" />
+<img width="826" height="575" alt="image" src="https://github.com/user-attachments/assets/b1dbdbab-54d7-40f3-96c6-9bc1e1f2d40b" />
 
-<img width="703" height="677" alt="Screenshot 2026-08-26 003333" src="https://github.com/user-attachments/assets/7a05e90a-bca6-4010-b450-77858a8d361e" />
+<img width="840" height="353" alt="Screenshot 2026-08-30 181748" src="https://github.com/user-attachments/assets/cada40c2-7177-4840-9976-5b37496007f7" />
 
-<img width="1061" height="712" alt="Screenshot 2026-08-26 003353" src="https://github.com/user-attachments/assets/3b50cf31-9734-40bb-9351-a545aae413f2" />
+<img width="816" height="362" alt="Screenshot 2026-08-30 183212" src="https://github.com/user-attachments/assets/d47c69fa-e17b-4838-b6cc-1d66a031614e" />
+
+<img width="911" height="622" alt="image" src="https://github.com/user-attachments/assets/f7163d69-c5d7-4456-9686-7b53fec2ccf2" />
 
 #
 
