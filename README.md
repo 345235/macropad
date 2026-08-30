@@ -20,7 +20,6 @@ seeedouino xiao
 # CAD
 
 
-The Base case has rectangular holes that aligns perfectly withe the four towers on the top plate 
 
 <img width="826" height="575" alt="image" src="https://github.com/user-attachments/assets/b1dbdbab-54d7-40f3-96c6-9bc1e1f2d40b" />
 
